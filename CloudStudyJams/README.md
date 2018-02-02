@@ -1,6 +1,6 @@
 # 2018 Cloud Study Jams
 
-The 2018 Cloud Study Jams kicked off on January. Learn more about the [Cloud Study Jams Agenda](http://bit.ly/gdgnyc-cloud-studyjams-2018). Then check the [QwikLabs Catalog](https://qwiklabs.com/catalog) to see all available training content. There are two main tracks: 
+The 2018 Cloud Study Jams kicked off on January. Learn more about the [Cloud Study Jams Agenda](https://docs.google.com/presentation/d/1bZ6hEn3yVmXfyATn2RKmxKGjQe7OxitnIt0WIvcRdrs/edit#slide=id.g22fa4b5540_0_246). Then check the [QwikLabs Catalog](https://qwiklabs.com/catalog) to see all available training content. There are two main tracks: 
 
  * **Google Cloud** / 11 Quests / 106 Labs
  * **Amazon Web Services** / 22 Quests / 95 Labs
