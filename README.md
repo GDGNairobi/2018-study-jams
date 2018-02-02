@@ -1,5 +1,5 @@
 # Cloud Study Jam Nairobi 2018
- 📚 Collecting resources & notes &amp; for [ Cloud Study Jam Nairobi 2018 ](https://www.meetup.com/GDG-Nairobi/events/245939286/)
+ 📚 Collecting resources & notes &amp; for the [ Cloud Study Jam Nairobi 2018 ](https://www.meetup.com/GDG-Nairobi/events/245939286/)
  
 # Contributions
 
